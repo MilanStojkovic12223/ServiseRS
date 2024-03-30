@@ -1,0 +1,62 @@
+/*index*/
+.mc-logo{
+    width:40px;
+}
+
+.mc-w-90{
+    width: 90%;
+}
+
+
+.mc-bg-gray1{
+    background-color: #E1E1E1 !important;
+}
+
+.mc-icon-size {
+    width: 60px;
+    height: 60px;
+}
+
+.mc-icon-size i{
+    font-size: 35px;
+}
+
+.mc-bg-black{
+    background-color: black;
+    
+}
+
+.mx-icon-x{
+    font-size: 25px;
+}
+
+.mc-w-60{
+    width: 60%;
+}
+.mc-margin{
+    margin-top: 8%;
+}
+.mc-img{
+    width: 100%;
+}
+/*Autor*/
+.mc-ctt{
+    margin-top: 50px;
+}
+
+.mc-ctxt{
+    font-size: 25px;
+}
+
+/*kontakti*/
+.mc-pom{
+    height: 600px;
+}
+.mc-margin{
+    margin-top: 11%;
+}
+
+.mc-mt{
+    margin-top: 8%;
+    margin-bottom: 10%;
+}
